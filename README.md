@@ -9,4 +9,4 @@
 > **Instalaciones Necesarias**.
 >
 > * Instalaciones recomendadas para iniciar con Node JS. 
-[Guía de Instalaciones](https://github.com/crisdev-ec/instalaciones-recomendadas-node.git)
+ <a href="https://github.com/crisdev-ec/instalaciones-recomendadas-node.git" target="_blank">Guía de Instalaciones</a>
