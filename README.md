@@ -1,2 +1,9 @@
 # aprendizaje-node-js
-This is my personal repo for README
+
+const crisdev = {
+  pronouns: "He" | "His",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Storybook, Docker],
+ 
+ Learnings: "About NodeJS."
+}
